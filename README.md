@@ -20,7 +20,7 @@ This colour theme is available in Microsoft's Marketplace and [GitHub Releases](
 
 ### IDE (recommended)
 
-In the `Extensions` menu of your VSCode installation search for "Silent Writing" extension. Once found, click the "Install" button.
+In the `Extensions` menu of your VSCode installation search for "Silent Writing Theme" extension. Once found, click the "Install" button.
 
 ### VSIX
 

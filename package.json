@@ -1,6 +1,6 @@
 {
-  "name": "silent-writing",
-  "displayName": "Silent Writing",
+  "name": "silent-writing-theme",
+  "displayName": "Silent Writing Theme",
   "description": "A silenced theme in a black & white palette.",
   "version": "0.1.0",
   "publisher": "seppzer0",
@@ -37,7 +37,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Silent Writing",
+        "label": "Silent Writing Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/silent-writing-color-theme.json"
       }

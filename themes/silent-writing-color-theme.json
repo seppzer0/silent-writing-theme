@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Silent Writing",
+  "name": "Silent Writing Theme",
   "tokenColors": [
 		{
 			"name": "Function declarations",
