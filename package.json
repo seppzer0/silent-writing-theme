@@ -1,0 +1,46 @@
+{
+  "name": "silent-writing",
+  "displayName": "Silent Writing",
+  "description": "A silenced theme in a black & white palette.",
+  "version": "0.1.0",
+  "publisher": "seppzer0",
+  "author": {
+    "name": "seppzer0",
+    "url": "https://github.com/seppzer0"
+  },
+  "repository": "https://github.com/seppzer0/silent-writing-theme",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "keywords": [
+    "dark",
+    "black",
+    "pitch",
+    "void",
+    "white",
+    "full black",
+    "pitch black",
+    "void black",
+    "white on black",
+    "white text",
+    "contrast",
+    "monochrome",
+    "minimalistic",
+    "terminal",
+    "theme"
+  ],
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Silent Writing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/silent-writing-color-theme.json"
+      }
+    ]
+  }
+}
