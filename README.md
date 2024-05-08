@@ -14,13 +14,13 @@ This version of white-on-black theme is intended to be balanced. I thought maybe
 
 ## Availability
 
-This colour theme is available in Microsoft's Marketplace, OpenVSX Registry and [GitHub Releases](https://github.com/seppzer0/silent-writing-theme/releases).
+This colour theme is available in Microsoft's Marketplace and [GitHub Releases](https://github.com/seppzer0/silent-writing-theme/releases).
 
 ## Installation
 
 ### IDE (recommended)
 
-In the `Extensions` menu of your VSCod(e/ium) installation search for "Silent Writing" extension. Once found, click the "Install" button.
+In the `Extensions` menu of your VSCode installation search for "Silent Writing" extension. Once found, click the "Install" button.
 
 ### VSIX
 
