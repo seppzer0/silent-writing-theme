@@ -10,7 +10,7 @@ I was fond of a basic scheme with a black background and white text. This colour
 
 I have tried several existing solutions, with none feeling quite right. There were still some elements that were either eye-razoring or otherwise distracting from a thought process, which reallistically is the only thing that matters when writing code. I could just start coding in terminals exclusively; but I didn't want to leave VSCode just yet.
 
-This version of white-on-black theme is intended to be balanced. I thought maybe my bland taste in colours might be shared by someone else, so I decided to make it publicly available for everyone to try it.
+This version of white-on-black theme is intended to be balanced. I thought maybe my bland taste in colours might be shared by someone else, so I decided to make it publicly available for everyone to try.
 
 ## Availability
 
