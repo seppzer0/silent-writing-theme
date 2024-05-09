@@ -48,7 +48,10 @@ def run(cmd: str, output: Optional[bool] = False) -> subprocess.CompletedProcess
 
 
 def build_image(env: str) -> None:
-    """Build the Docker/Podman image."""
+    """Build the Docker/Podman image.
+    
+    :param str env: Package build environment.
+    """
     if IMAGE_NAME not in str(run(f'{env} images --format "{{{{.Repository}}}}"', True).stdout).splitlines():
         print(f"\nBuilding {env.capitalize()} image...\n")
         run(f"{env} image build {ROOTPATH} -f {ROOTPATH / "Dockerfile"} -t {IMAGE_NAME}")
