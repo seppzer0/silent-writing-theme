@@ -76,7 +76,7 @@ def build_package(env: str) -> subprocess.CompletedProcess:
     version = run(cmd=f'python {ROOTPATH / "scripts" / "get_version.py"}', output=True).stdout.rstrip()
     return run(
         extend_cmd(
-            cmd=f"rm -rf build && mkdir build && vsce package -o build/silent-writing-{version}.vsix",
+            cmd=f"rm -rf build && mkdir build && vsce package -o build/silent-writing-theme-{version}.vsix",
             extra_args=f"-v {ROOTPATH}:/package -w /package",
             env=env
         )
