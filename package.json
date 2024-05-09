@@ -37,7 +37,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Silent Writing Theme",
+        "label": "Silent Writing",
         "uiTheme": "vs-dark",
         "path": "./themes/silent-writing-color-theme.json"
       }

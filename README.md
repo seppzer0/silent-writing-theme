@@ -14,7 +14,7 @@ This version of white-on-black theme is intended to be balanced. I thought maybe
 
 ## Availability
 
-This colour theme is available in Microsoft's Marketplace and [GitHub Releases](https://github.com/seppzer0/silent-writing-theme/releases).
+This colour theme is available in [Microsoft's Marketplace](https://marketplace.visualstudio.com/items?itemName=seppzer0.silent-writing-theme) and [GitHub Releases](https://github.com/seppzer0/silent-writing-theme/releases).
 
 ## Installation
 
