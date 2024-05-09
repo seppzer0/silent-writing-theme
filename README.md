@@ -10,11 +10,11 @@ I was fond of a basic scheme with a black background and white text. This colour
 
 I have tried several existing solutions, with none feeling quite right. There were still some elements that were either eye-razoring or otherwise distracting from a thought process, which reallistically is the only thing that matters when writing code. I could just start coding in terminals exclusively; but I didn't want to leave VSCode just yet.
 
-This version of white-on-black theme is intended to be balanced. I thought maybe my bland taste in colours might be shared by someone else, so I decided to make it publicly available for everyone to try it.
+This version of white-on-black theme is intended to be balanced. I thought maybe my bland taste in colours might be shared by someone else, so I decided to make it publicly available for everyone to try.
 
 ## Availability
 
-This colour theme is available in Microsoft's Marketplace and [GitHub Releases](https://github.com/seppzer0/silent-writing-theme/releases).
+This colour theme is available in [Microsoft's Marketplace](https://marketplace.visualstudio.com/items?itemName=seppzer0.silent-writing-theme) as well as [GitHub Releases](https://github.com/seppzer0/silent-writing-theme/releases).
 
 ## Installation
 
@@ -24,7 +24,7 @@ In the `Extensions` menu of your VSCode installation search for "Silent Writing 
 
 ### VSIX
 
-You can download a .vsix file from the release page and install it directly.
+You can download a .vsix file from the [release page](https://github.com/seppzer0/silent-writing-theme/releases) and install it directly.
 
 Below is an example of doing so via a command line:
 
