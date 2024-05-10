@@ -198,6 +198,10 @@
 		"numberLiteral": "#d2d2d2",
 	},
   "colors": {
+	"window.activeBorder": "#1e1e1e",
+    "window.inactiveBorder": "#151515",
+	"quickInput.background": "#040404",
+	"quickInput.foreground": "#CCCCCC",
 	"searchEditor.findMatchBackground": "#040404",
 	"searchEditor.findMatchBorder": "#d5d5d5",
 	"searchEditor.textInputBorder": "#040404",
