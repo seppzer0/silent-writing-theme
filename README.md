@@ -24,7 +24,7 @@ In the `Extensions` menu of your VSCode installation search for "Silent Writing 
 
 ### VSIX
 
-You can download a .vsix file from the [release page](https://github.com/seppzer0/silent-writing-theme/releases) and install it directly.
+You can download a .vsix file from the [release page](https://github.com/seppzer0/silent-writing-theme/releases/latest) and install it directly.
 
 Below is an example of doing so via a command line:
 
