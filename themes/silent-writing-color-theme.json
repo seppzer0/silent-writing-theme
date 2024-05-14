@@ -198,7 +198,7 @@
 		"numberLiteral": "#d2d2d2",
 	},
   "colors": {
-	"panel.background":"#040404",
+	"panel.background": "#040404",
 	"window.activeBorder": "#1e1e1e",
     "window.inactiveBorder": "#151515",
 	"quickInput.background": "#040404",
