@@ -266,7 +266,7 @@
     "extensionButton.prominentBackground": "#b3b7b8",
     "extensionButton.prominentForeground": "#b3b7b8",
 	"editorGroup.border": "#b6c1cf",
-	"editorGroup.dropBackground": "#04070b",
+	"editorGroup.dropBackground": "#7b7a7a6a",
 	"editorGroup.emptyBackground": "#04070b",
 	"editorGroupHeader.noTabsBackground": "#04070b",
 	"editorGroupHeader.tabsBackground": "#04070b",
