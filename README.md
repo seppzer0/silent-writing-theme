@@ -47,7 +47,8 @@ For VSCodium, use `~/.vscode-oss/extensions/silent-writing-theme` path instead.
 ## Acknowledgments
 
 - [obsidian-minimal](https://github.com/kepano/obsidian-minimal): Obsidian theme inspiring the idea;
-- [vscode-pitch-black-theme](https://github.com/ViktorQvarfordt/vscode-pitch-black-theme): Starting base of the project.
+- [vscode-pitch-black-theme](https://github.com/ViktorQvarfordt/vscode-pitch-black-theme): Starting base of the project;
+- [vscode-hundred-oceans-theme](https://github.com/MCluck90/vscode-hundred-oceans-theme): Example of blue-ish darkness in silenced tones.
 
 ## License
 
