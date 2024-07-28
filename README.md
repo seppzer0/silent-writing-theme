@@ -1,6 +1,6 @@
 # silent-writing-theme
 
-A silenced theme in a black & white palette.
+A silenced theme in monochrome tones palette.
 
 ![demo](https://raw.githubusercontent.com/seppzer0/silent-writing-theme/main/assets/demo.png)
 
@@ -8,9 +8,9 @@ A silenced theme in a black & white palette.
 
 I was fond of a basic scheme with a black background and white text. This colour combination felt simplistic yet elegant, which made me curious to try adapting it for my coding environment.
 
-I have tried several existing solutions, with none feeling quite right. There were still some elements that were either eye-razoring or otherwise distracting from a thought process, which reallistically is the only thing that matters when writing code. I could just start coding in terminals exclusively; but I didn't want to leave VSCode just yet.
+I have tried several existing solutions, none of which felt quite right. There were still some elements that were either eye-razoring or otherwise distracting from a thought process, which realistically is the only thing that matters when writing code. I could just start coding in terminals exclusively; but I didn't want to leave VSCode just yet.
 
-This version of white-on-black theme is intended to be balanced. I thought maybe my bland taste in colours might be shared by someone, so I decided to make it publicly available for everyone to try.
+This version of white(-ish)-on-black theme is intended to be balanced. I thought maybe my bland taste in colours might be shared by someone, so I decided to make it publicly available for everyone.
 
 ## Availability
 
@@ -47,7 +47,8 @@ For VSCodium, use `~/.vscode-oss/extensions/silent-writing-theme` path instead.
 ## Acknowledgments
 
 - [obsidian-minimal](https://github.com/kepano/obsidian-minimal): Obsidian theme inspiring the idea;
-- [vscode-pitch-black-theme](https://github.com/ViktorQvarfordt/vscode-pitch-black-theme): Starting base of the project.
+- [vscode-pitch-black-theme](https://github.com/ViktorQvarfordt/vscode-pitch-black-theme): Starting base of the project;
+- [vscode-hundred-oceans-theme](https://github.com/MCluck90/vscode-hundred-oceans-theme): Example of blue-ish darkness in silenced tones.
 
 ## License
 
