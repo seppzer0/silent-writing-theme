@@ -216,7 +216,7 @@
 		"terminal.ansiRed": "#abb6bb",
 		"terminal.ansiWhite": "#abb6bb",
 		"terminal.ansiYellow": "#abb6bb",
-		"editorLineNumber.foreground": "#2a2d2d",
+		"editorLineNumber.foreground": "#565b5d",
 		"editorLineNumber.activeForeground": "#abb6bb",
 		"editorError.foreground": "#c5c5c5",
 		"editorWarning.foreground": "#c5c5c5",
