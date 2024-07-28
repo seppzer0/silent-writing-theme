@@ -37,7 +37,7 @@ def parse_args() -> argparse.Namespace:
 
 def run(cmd: str, output: Optional[bool] = False) -> subprocess.CompletedProcess:
     """Invoke shell command via subprocess wrapping.
-    
+
     :param str cmd: Command to execute.
     :param Optional[bool]=False output: Flag to get the output of the command
     """
@@ -49,7 +49,7 @@ def run(cmd: str, output: Optional[bool] = False) -> subprocess.CompletedProcess
 
 def build_image(env: str) -> None:
     """Build the Docker/Podman image.
-    
+
     :param str env: Package build environment.
     """
     if IMAGE_NAME not in str(run(f'{env} images --format "{{{{.Repository}}}}"', True).stdout).splitlines():
@@ -60,7 +60,7 @@ def build_image(env: str) -> None:
 
 def extend_cmd(cmd: str, env: str, extra_args: Optional[str] = None) -> str:
     """Extend given command with Docker usage.
-    
+
     :param str cmd: Command to be exntended.
     :param str env: Package build environment.
     :param Optional[str]=None extra_args: Extra arguments for Docker/Podman run command.
@@ -73,7 +73,7 @@ def extend_cmd(cmd: str, env: str, extra_args: Optional[str] = None) -> str:
 
 def build_package(env: str) -> subprocess.CompletedProcess:
     """Build the package.
-    
+
     :param str env: Package build environment.
     """
     version = run(cmd=f'python {ROOTPATH / "scripts" / "get_version.py"}', output=True).stdout.rstrip()
@@ -88,7 +88,7 @@ def build_package(env: str) -> subprocess.CompletedProcess:
 
 def clean_cache(env: str) -> subprocess.CompletedProcess:
     """Remove built image from Docker/Podman cache.
-    
+
     :param str env: Package build environment.
     """
     return run(cmd=f"{env} rmi {IMAGE_NAME}")
