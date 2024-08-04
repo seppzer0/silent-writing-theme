@@ -34,15 +34,17 @@ code --install-extentions <path_to_vsix_file>
 
 For VSCodium, use `codium` command instead.
 
-### Git (for Development and Testing)
+### Development and Testing
 
-In case you want to modify this theme yourself, you can copy it as a git repository:
+If you want to try your modifications on this theme, you can insert your changes into the theme file and use the custom script to build the extension file conveniently.
 
 ```sh
-git clone https://github.com/seppzer0/silent-writing-theme ~/.vscode/extensions/silent-writing-theme
+python3 scripts/build_package.py
 ```
 
-For VSCodium, use `~/.vscode-oss/extensions/silent-writing-theme` path instead.
+This will create a build directory with a .vsix file inside. You need either Docker or [vsce](https://github.com/microsoft/vscode-vsce) installed in your system in order to run the script.
+
+If you're actively testing your ideas, you can use VSCode's internal functionality (Fn+F5) to add and check your edits in a much faster and even more convenient way. This is also applicable to VSCodium.
 
 ## Acknowledgments
 
