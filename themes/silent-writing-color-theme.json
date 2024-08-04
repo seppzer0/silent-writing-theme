@@ -12,7 +12,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -53,7 +53,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 				"constant.other.placeholder", // placeholders in strings
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#adb5b9",
+				"foreground": "#afb5b9",
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -128,7 +128,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -143,7 +143,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 				"constant.character.set.regexp"
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
@@ -163,61 +163,61 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
 			"scope": "constant.character",
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		},
 		{
 			"scope": "entity.name.label",
 			"settings": {
-				"foreground": "#adb5b9"
+				"foreground": "#afb5b9"
 			}
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator": "#adb5b9",
-		"stringLiteral": "#adb5b9",
-		"customLiteral": "#adb5b9",
-		"numberLiteral": "#adb5b9",
+		"newOperator": "#afb5b9",
+		"stringLiteral": "#afb5b9",
+		"customLiteral": "#afb5b9",
+		"numberLiteral": "#afb5b9",
 	},
 	"colors": {
-		"terminal.foreground": "#adb5b9",
-		"terminalCursor.foreground": "#adb5b9",
-		"terminal.ansiBlack": "#adb5b9",
-		"terminal.ansiBlue": "#adb5b9",
-		"terminal.ansiBrightBlack": "#adb5b9",
-		"terminal.ansiBrightBlue": "#adb5b9",
-		"terminal.ansiBrightCyan": "#adb5b9",
-		"terminal.ansiBrightGreen": "#adb5b9",
-		"terminal.ansiBrightMagenta": "#adb5b9",
-		"terminal.ansiBrightRed": "#adb5b9",
-		"terminal.ansiBrightWhite": "#adb5b9",
-		"terminal.ansiBrightYellow": "#adb5b9",
-		"terminal.ansiCyan": "#adb5b9",
-		"terminal.ansiGreen": "#adb5b9",
-		"terminal.ansiMagenta": "#adb5b9",
-		"terminal.ansiRed": "#adb5b9",
-		"terminal.ansiWhite": "#adb5b9",
-		"terminal.ansiYellow": "#adb5b9",
-		"editorLineNumber.foreground": "#52555b",
-		"editorLineNumber.activeForeground": "#adb5b9",
+		"terminal.foreground": "#afb5b9",
+		"terminalCursor.foreground": "#afb5b9",
+		"terminal.ansiBlack": "#afb5b9",
+		"terminal.ansiBlue": "#afb5b9",
+		"terminal.ansiBrightBlack": "#afb5b9",
+		"terminal.ansiBrightBlue": "#afb5b9",
+		"terminal.ansiBrightCyan": "#afb5b9",
+		"terminal.ansiBrightGreen": "#afb5b9",
+		"terminal.ansiBrightMagenta": "#afb5b9",
+		"terminal.ansiBrightRed": "#afb5b9",
+		"terminal.ansiBrightWhite": "#afb5b9",
+		"terminal.ansiBrightYellow": "#afb5b9",
+		"terminal.ansiCyan": "#afb5b9",
+		"terminal.ansiGreen": "#afb5b9",
+		"terminal.ansiMagenta": "#afb5b9",
+		"terminal.ansiRed": "#afb5b9",
+		"terminal.ansiWhite": "#afb5b9",
+		"terminal.ansiYellow": "#afb5b9",
+		"editorLineNumber.foreground": "#5e6164",
+		"editorLineNumber.activeForeground": "#afb5b9",
 		"editorError.foreground": "#c5c5c5",
 		"editorWarning.foreground": "#c5c5c5",
 		"editorInfo.foreground": "#c5c5c5",
@@ -256,17 +256,17 @@
 		"editor.findMatchBorder": "#dcdcdc",
 		"editor.findMatchHighlightBackground": "#5c5c5cb7",
 		"editor.findMatchHighlightBorder": "#626262",
-		"editor.foreground": "#adb5b9",
+		"editor.foreground": "#afb5b9",
 		"editor.lineHighlightBorder": "#030404",
 		//"editor.inactiveSelectionBackground": "#3A3D41",
 		"editor.selectionBackground": "#818181",
 		//"editor.selectionHighlightBackground": "#818181",
-		"editor.selectionHighlightBorder": "#adb5b9",
-		"editorBracketHighlight.foreground1": "#adb5b9",
-		"editorBracketHighlight.foreground2": "#adb5b9",
-		"editorBracketHighlight.foreground3": "#adb5b9",
-		"extensionButton.prominentBackground": "#adb5b9",
-		"extensionButton.prominentForeground": "#adb5b9",
+		"editor.selectionHighlightBorder": "#afb5b9",
+		"editorBracketHighlight.foreground1": "#afb5b9",
+		"editorBracketHighlight.foreground2": "#afb5b9",
+		"editorBracketHighlight.foreground3": "#afb5b9",
+		"extensionButton.prominentBackground": "#afb5b9",
+		"extensionButton.prominentForeground": "#afb5b9",
 		"editorGroup.dropBackground": "#7b7a7a6a",
 		"editorGroup.emptyBackground": "#020404",
 		"editorGroupHeader.noTabsBackground": "#030404",
@@ -292,7 +292,7 @@
 		"menu.selectionBackground": "#474747",
 		"menubar.selectionBackground": "#333333",
 		"menubar.selectionBorder": "#333333",
-		"menubar.selectionForeground": "#adb5b9",
+		"menubar.selectionForeground": "#afb5b9",
 		"ports.iconRunningProcessForeground": "#CCCCCC",
 		"scrollbarSlider.activeBackground": "#fff4",
 		"scrollbarSlider.background": "#fff2",
@@ -302,7 +302,7 @@
 		"sideBar.foreground": "#7c8687",
 		"sideBarSectionHeader.background": "#0000",
 		"sideBarSectionHeader.border": "#0000",
-		"sideBarTitle.foreground": "#adb5b9",
+		"sideBarTitle.foreground": "#afb5b9",
 		"statusBar.background": "#030404",
 		"statusBar.foreground": "#ccc",
 		"statusBar.noFolderBackground": "#030404",
